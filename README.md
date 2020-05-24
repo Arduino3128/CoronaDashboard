@@ -3,8 +3,8 @@ Dashboard for COVID-19 data State-District wise for India.
 
 ## What's in this project?  
   
-Made using PyQt5 and Designer. 
-Easy to use GUI.    
+Made using PyQt5 and Designer.    
+Easy to use GUI.       
 Auto-Location Detection.  
 One-Click Govt. Hospital,Night Shelter and Food Shelter finder.    
 Integrated with Google Maps.  
