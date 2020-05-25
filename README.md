@@ -18,6 +18,6 @@ Integrated with Google Maps.
   
     pip install pyqt5 pyside2 pyqtwebengine  
 
-### Additional Fonts:
-
-   [Quicksand]https://fonts.google.com/specimen/Quicksand
+### Additional Fonts:  
+  
+[Quicksand]https://fonts.google.com/specimen/Quicksand
