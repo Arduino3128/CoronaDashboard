@@ -20,4 +20,4 @@ Integrated with Google Maps.
 
 ### Additional Fonts:
 
-    https://fonts.google.com/specimen/Quicksand
+   [Quicksand]link:https://fonts.google.com/specimen/Quicksand
