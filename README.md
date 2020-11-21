@@ -21,5 +21,3 @@ Integrated with Google Maps.
 ### Additional Fonts:  
   
 [Quicksand](https://github.com/Arduino3128/CoronaDashboard/blob/master/Quicksand-VariableFont_wght.ttf?raw=true)  
-[Kruti-Dev-021](https://github.com/Arduino3128/CoronaDashboard/blob/master/kruti-dev-021.ttf?raw=true)  
-[Mitra](https://github.com/Arduino3128/CoronaDashboard/blob/master/mitra.ttf?raw=true)  
