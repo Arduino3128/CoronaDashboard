@@ -1,5 +1,5 @@
 # CoronaDashboard
-Dashboard for COVID-19 data State-District wise for India.     
+Open-Source Dashboard for COVID-19 data State-District wise for India.     
 
 ## What's in this project?  
   
